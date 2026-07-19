@@ -44,8 +44,8 @@ function hideLoader(){
 
 document.addEventListener('DOMContentLoaded', async () => {
   await Promise.all([
-    loadPartial('partials/header.html', 'siteHeader'),
-    loadPartial('partials/footer.html', 'siteFooter')
+    loadPartial('header.html', 'siteHeader'),
+    loadPartial('footer.html', 'siteFooter')
   ]);
   setActiveNavLink();
   wireMobileNav();
