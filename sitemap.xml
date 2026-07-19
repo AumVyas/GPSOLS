@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://gppracticesolutions.com.au/index.html</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://gppracticesolutions.com.au/accreditation.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gppracticesolutions.com.au/recruitment.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gppracticesolutions.com.au/workflow.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gppracticesolutions.com.au/practice-support.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gppracticesolutions.com.au/team.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gppracticesolutions.com.au/contact.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://gppracticesolutions.com.au/privacy.html</loc>
+    <priority>0.4</priority>
+  </url>
+</urlset>
